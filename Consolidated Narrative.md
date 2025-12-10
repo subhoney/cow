@@ -203,6 +203,26 @@ These skills will make your Florida Springs experience safe and comfortable whil
 
 ---
 
+## Continuing Education
+
+### Nitrox Certification
+
+With the practical skills from Dive 4 complete, you're ready to finalize your Nitrox certification. The hands-on work—gas analysis, computer setup, and diving on enriched air—is already done. To earn your SDI Computer Nitrox certification:
+
+- Complete the remaining academic requirements virtually or in person with an instructor.
+- Complete the eLearning and pass the written exam.
+- Your certification will be issued after your Open Water certification is complete.
+
+### Peak Performance Buoyancy (PPB)
+
+The buoyancy and trim work from Dive 4 counts toward the SDI Peak Performance Buoyancy specialty. This course is a building block toward your Advanced Open Water certification. To complete PPB:
+
+- Review the PPB eLearning.
+- Log additional dives demonstrating advanced buoyancy control (can be completed during your Open Water certification dives or future dives).
+- Receive your PPB specialty card; one step closer to Advanced Open Water Diver!
+
+---
+
 ## Instructor & Safety Notes
 
 - Ratios: 8:1 in confined water; up to 12:1 with assistants.
