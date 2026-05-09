@@ -56,14 +56,15 @@
 **Pre‑Dive:**
 
 - Briefing: objectives, signals, buddy roles, gas management.
-- Equipment assembly and predive checks.
-- Entry: giant stride.
+- Equipment assembly and **self-and-buddy predive checks**: verify gas, equipment condition, BCD function, weight placement, mask seal, and communication signals.
+- Entry: controlled seated entry and giant stride.
 
 **In‑Water Skills:**
 
 - Surface BCD inflation/deflation, snorkel/regulator exchange.
+- **Snorkel skills: adjustment, blast-clear method, regulator/snorkel exchange, surface snorkel swim in full equipment**.
 - Controlled descents and ascents.
-- Regulator recovery & clearing; alternate air source drill.
+- **Regulator recovery & clearing at surface and at depth**; alternate air source drill.
 - Mask skills: partial and full flood & clear; no‑mask breathing/swim.
 - Basic buoyancy: weight check, hover attempts.
 - Finning techniques.
@@ -106,6 +107,7 @@
 - Hovering & trim practice.
 - CESA simulation.
 - Remove/replace BCD at surface and depth.
+- **BCD oral inflation/deflation and power inflation/deflation at depth**.
 - Weight system removal/replacement.
 - Tired‑diver tow and cramp‑relief techniques.
 
@@ -150,6 +152,8 @@ These skills will make your Florida Springs experience safe and comfortable whil
 - Controlled descents/ascents with simulated safety stop.
 - No‑mask swim and re‑don.
 - Out‑of‑air drill with alternate air source ascent.
+- **Regulator clearing and recovery: practice at surface and at depth**.
+- **Gauge use fundamentals: monitor SPG pressure, depth, and dive time throughout the dive**.
 - Navigation basics.
 - Environmental awareness: silt avoidance, trim, slow finning.
 
@@ -193,6 +197,7 @@ These skills will make your Florida Springs experience safe and comfortable whil
 - Exact weighting and trim adjustments.
 - Hovering challenges: horizontal, vertical, hover turns.
 - Streamlining and precision finning.
+- **Gauge monitoring: continuously read SPG (gas pressure), depth, and computer NDL throughout the dive**.
 - Computer checks: verify Nitrox settings, track NDL.
 - Task loading: obstacle course without contact.
 
@@ -270,3 +275,83 @@ The buoyancy and trim work from Dive 4 counts toward the SDI Peak Performance Bu
 - Dive log entries for all four simulated dives.
 - Readiness assessment for OW dives.
 - Computer Nitrox registration after OW cert issuance.
+
+---
+
+## Appendix: SDI Open Water Skills by Dive
+
+| Skill                                                   | Dive 1 | Dive 2 | Dive 3 | Dive 4 |
+| ------------------------------------------------------- | :----: | :----: | :----: | :----: |
+| **Pre-Dive Procedures**                                 |
+| Self-and-buddy predive checks                           |   ✅   |        |        |        |
+| Equipment assembly/disassembly                          |   ✅   |   ✅   |   ✅   |   ✅   |
+| **Entry Methods**                                       |
+| Controlled seated entry                                 |   ✅   |        |        |        |
+| Giant stride entry                                      |   ✅   |        |        |        |
+| Backroll entry                                          |        |   ✅   |        |        |
+| **Exit Methods**                                        |
+| Deep water exit                                         |   ✅   |        |        |        |
+| Shallow water exit                                      |        |   ✅   |        |        |
+| **Mask Skills**                                         |
+| Partial mask clear (shallow & depth)                    |   ✅   |        |        |        |
+| Full mask clear (shallow & depth)                       |   ✅   |        |        |        |
+| No-mask breathing & swimming                            |   ✅   |        |   ✅   |        |
+| No-mask swim and re-don underwater                      |        |        |   ✅   |        |
+| **Regulator Skills**                                    |
+| Regulator breathing at surface                          |   ✅   |        |        |        |
+| Regulator breathing at depth                            |   ✅   |        |        |        |
+| Regulator recovery & clearing at surface                |   ✅   |   ✅   |   ✅   |        |
+| Regulator recovery & clearing at depth                  |   ✅   |        |   ✅   |        |
+| Alternate air source breathing (surface)                |   ✅   |        |        |        |
+| Alternate air source breathing (depth)                  |   ✅   |        |   ✅   |        |
+| **BCD Skills**                                          |
+| BCD inflation/deflation at surface                      |   ✅   |   ✅   |        |        |
+| BCD removal/replacement at surface                      |        |   ✅   |        |        |
+| BCD removal/replacement at depth                        |        |   ✅   |        |        |
+| BCD oral inflation/deflation at depth                   |        |   ✅   |        |        |
+| BCD power inflation/deflation at depth                  |        |   ✅   |        |        |
+| **Snorkel Skills**                                      |
+| Snorkel adjustment                                      |   ✅   |        |        |        |
+| Snorkel blast-clear method                              |   ✅   |        |        |        |
+| Snorkel/regulator exchange                              |   ✅   |        |        |        |
+| Surface snorkel swim in full equipment                  |   ✅   |        |        |        |
+| **Weighting & Buoyancy**                                |
+| Weight system removal/replacement                       |   ✅   |   ✅   |   ✅   |        |
+| Weight manipulation at surface                          |        |   ✅   |        |        |
+| Weight manipulation at depth                            |        |   ✅   |        |        |
+| Basic weight check                                      |   ✅   |        |        |        |
+| Controlled descents (surface to depth)                  |   ✅   |   ✅   |   ✅   |        |
+| Controlled ascents (depth to surface)                   |   ✅   |   ✅   |   ✅   |        |
+| Simulated safety stop                                   |        |   ✅   |   ✅   |        |
+| Hover at shallow depth                                  |   ✅   |   ✅   |        |        |
+| Hover at varied positions (horizontal, vertical, turns) |        |        |        |   ✅   |
+| Trim adjustments & refinement                           |        |   ✅   |   ✅   |   ✅   |
+| **Fin Skills**                                          |
+| Finning techniques (basic)                              |   ✅   |        |        |        |
+| Precision finning                                       |        |        |        |   ✅   |
+| Streamlining                                            |        |        |        |   ✅   |
+| **Gauge & Computer Skills**                             |
+| Gauge use (SPG, depth, time monitoring)                 |        |        |   ✅   |        |
+| Continuous gauge monitoring throughout dive             |        |        |   ✅   |   ✅   |
+| Dive computer operation (air dives)                     |   ✅   |        |   ✅   |        |
+| Dive computer setup for Nitrox                          |        |        |        |   ✅   |
+| Dive computer checks (Nitrox settings & NDL)            |        |        |        |   ✅   |
+| **Emergency Skills**                                    |
+| Controlled Emergency Swimming Ascent (CESA)             |   ✅   |   ✅   |   ✅   |        |
+| Out-of-air drill with alternate air source ascent       |   ✅   |   ✅   |   ✅   |        |
+| Tired diver tow                                         |        |   ✅   |        |        |
+| Cramp relief techniques                                 |        |   ✅   |        |        |
+| **Communication & Navigation**                          |
+| Underwater communication signals                        |   ✅   |        |        |        |
+| Buddy system procedures                                 |   ✅   |   ✅   |   ✅   |   ✅   |
+| Navigation basics (natural features)                    |        |        |   ✅   |        |
+| Compass navigation                                      |        |        |   ✅   |        |
+| Environmental awareness (silt avoidance)                |        |        |   ✅   |        |
+| Environmental awareness (trim & finning)                |        |        |   ✅   |   ✅   |
+| **Nitrox-Specific Skills**                              |
+| Gas analysis (O₂% verification & recording)             |        |        |        |   ✅   |
+| Analyzer calibration                                    |        |        |        |   ✅   |
+| Nitrox MOD & PO₂ limit management                       |        |        |        |   ✅   |
+| **Task Loading & Advanced Skills**                      |
+| Multi-skill task loading                                |   ✅   |   ✅   |   ✅   |   ✅   |
+| Obstacle course (contact-free)                          |        |        |        |   ✅   |
